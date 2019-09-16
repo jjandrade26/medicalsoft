@@ -16,7 +16,7 @@ public class Medicalsoft {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Medico PrimerMedico = new Medico("jefferson","andrade");
+        Medico PrimerMedico = new Medico("jefferson","andrade","cirujano");
         
        
         System.out.println(PrimerMedico.getNombres());
